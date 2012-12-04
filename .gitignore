@@ -4,3 +4,4 @@
 *.jar
 *.war
 *.ear
+/Banco/nbproject/private/
